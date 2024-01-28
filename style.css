@@ -46,6 +46,10 @@ h1{
 
 
 @media(max-width : 375px){
+    body{
+        max-width: 100%;
+    }
+
     h1{
         margin-left: 9rem;
     }
@@ -54,7 +58,6 @@ h1{
         margin-left: 9rem;
     }
     
-   
   
 
 
@@ -63,6 +66,10 @@ h1{
 
 
 @media(max-width : 320px){
+    body{
+        max-width: 100%;
+    }
+    
     h1{
         margin-left: 12rem;
     }
